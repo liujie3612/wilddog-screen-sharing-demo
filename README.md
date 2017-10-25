@@ -1,5 +1,5 @@
-# video-demo-web-conference
-使用野狗video sdk建立多人视频通话的示例
+# wilddog sdk实现屏幕共享
+使用wilddogvideo-room sdk实现屏幕共享的demo
 ## 使用方式：
 1. 使用node执行https_channel_server.js：
 
