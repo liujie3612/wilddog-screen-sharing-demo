@@ -1,5 +1,5 @@
 # wilddog sdk实现屏幕共享
-使用wilddogvideo-room sdk实现屏幕共享的demo
+使用wilddog-video-room sdk实现屏幕共享的demo
 ## 使用方式：
 1. 使用node执行https_channel_server.js：
 
